@@ -1,5 +1,14 @@
 ## jakarta.js
-Graph real-time monitoring illustration using Node.js, express, socket.io, and flot.js.
+Graph real-time monitoring illustration using Node.js, socket.io, and flot.js.
+
+## Usage
+
+You can install jakarta.js as follows.
+
+	$ git clone https://github.com/agusk/jakarta.js.git
+	$ cd src
+	$ npm install
+	$ node App.js
 
 
 ## License
